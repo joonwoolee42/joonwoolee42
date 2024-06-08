@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: Home 
 permalink: /
-subtitle: <a href='#'>at Chung-Ang University</a> 
+subtitle: School of Computer Science and Engineering at Chung-Ang University 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: proj_ljw.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>310-440, 84, Heukseok-ro</p>
