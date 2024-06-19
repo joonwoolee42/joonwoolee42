@@ -2,11 +2,33 @@
 layout: page
 permalink: /teaching/
 title: Courses 
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 7 
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+---
 
-Organize your courses by years, topics, or universities, however you like!
+### Spring 2024
+- Software Project
+- Creative Design
+
+---
+
+### Fall 2023
+- Application Development For Mobile Computer
+- Programming
+
+---
+
+### Spring 2023
+- Software Project
+- Probability And Statistics
+
+---
+
+### Fall 2022
+- Application Development For Mobile Computer
+- Programming
+- Computer Architecture
+
+---
