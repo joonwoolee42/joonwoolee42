@@ -48,6 +48,7 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
@@ -63,6 +64,10 @@ layout: default
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
+    {% endif %}
+
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
     {% endif %}
   </article>
 </div>
